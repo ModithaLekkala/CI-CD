@@ -1,3 +1,3 @@
 function showMessage() {
-    document.getElementById('message').innerText = "Hello from CI/CD!";
+    document.getElementById('Message').innerText = "Hello from CI/CD!";
 }
